@@ -1,6 +1,6 @@
 # CTF coding club
 
-Bonjour, vous êtes passionés par l'informatique ?
+Bonjour,  vous êtes passionés par l'informatique ?
 
 Nous vous proposons alors de découvrir l'univers de la cybersécurité !
 
