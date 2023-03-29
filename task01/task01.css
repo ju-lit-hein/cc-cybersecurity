@@ -1,0 +1,10 @@
+.visible_message {
+    flex-direction: column;
+    background: black;
+    color: white;
+}
+
+.hidden_message {
+    color: red;
+    opacity: 0;
+}
