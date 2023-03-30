@@ -1,0 +1,31 @@
+.container {
+    border: solid black 2px;
+}
+
+form {
+    align-content: center;
+    justify-items: center;
+    text-align: center;
+    margin: 50px;
+    display: grid;
+}
+
+#login-input {
+    width: 50%;
+    height: 100%;
+}
+
+#password-input {
+    width: 50%;
+    height: 100%;
+}
+
+.login-button {
+    width: 25%;
+    height: 80%;
+    margin-top: 2vh;
+}
+
+.custom-br {
+    height: 2vh;;
+}
